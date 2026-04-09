@@ -19,7 +19,7 @@
 ### 克隆项目
 
 ```bash
-git clone https://github.com/你的用户名/nailong.git
+git clone https://github.com/Git-Wanyu/nailong.git
 cd nailong
 ```
 
